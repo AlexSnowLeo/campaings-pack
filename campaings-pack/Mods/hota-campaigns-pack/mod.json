@@ -4,8 +4,8 @@
 	"description" : "Pack of customs HotA campaigns downloaded from internet.",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"modType" : "Compatibility",
-	"name" : "HotA campaings pack",
+	"modType" : "Maps",
+	"name" : "HotA campaigns pack",
 	"version" : "1.0.0",
 	"depends" : [ "hota" ],
 	"keepDisabled" : true
